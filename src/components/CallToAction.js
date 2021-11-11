@@ -3,6 +3,7 @@ function CallToAction() {
         <div className="text call-to-action">
             <h1>Carlos López</h1>
             <p>Front End Developer</p>
+            
         </div>
     );
   }

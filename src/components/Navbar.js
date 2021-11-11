@@ -1,7 +1,8 @@
 function Navbar() {
   return (
     <nav>
-      <p className="text">@clopez12</p>
+      <a className="text" href="">@clopez12</a> | 
+      <a className="text" href="/html/">About Me</a> 
     </nav>
   );
 }
